@@ -8,3 +8,5 @@ prime_1to100.any? do |primes|
     true 
 end 
 end 
+
+c
