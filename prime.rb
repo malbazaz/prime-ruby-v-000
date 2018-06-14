@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?
-  2..10-1
+  2..100-1
 end 
